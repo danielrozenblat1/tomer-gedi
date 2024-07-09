@@ -109,7 +109,7 @@ const NavBarNew = () => {
         </div>}
       
       <div className={styles.socialIcons}>
-      <a href="https://www.instagram.com/gal.beauty_?igsh=MW9iOHA4Ym0wY25wOA==" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+      <a href="https://www.instagram.com/tomer__nails/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
         <a onClick={handleClick} ><FaWhatsapp /></a>
       </div>
     </nav>
