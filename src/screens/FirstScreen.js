@@ -11,8 +11,9 @@ return <>
 <div className={styles.center}><img className={styles.image} src={tomer} alt="תומר גדי"/></div>
 <h1 className={styles.title}>תומר גדי</h1>
 <h2 className={styles.job}>קורס לק ג׳ל | השתלמויות למקצועיות</h2>
-<div className={styles.description}> בגיל 23, אחרי 9 שנים בתחום אני אומרת לך בפה מלא</div>
-<div className={styles.bold}>את יכולה להפוך לקבוע לעצמך מתי לעבוד, כמה לעבוד, להיות אדון לעצמך ולקחת שליטה על החיים שלך!</div>
+<div className={styles.description}> בגיל 23, אחרי 6 שנים בתחום אני אומרת לך בפה מלא</div>
+<div className={styles.bold}>את יכולה להחליט מתי לעבוד, כמה לעבוד, לבחור איך לחיות את החיים שלך!</div>
+
 <FormScreen/>
 </>
 

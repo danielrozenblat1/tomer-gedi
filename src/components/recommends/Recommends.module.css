@@ -63,7 +63,7 @@
 
   .sliderContainer {
 
-      width: 80%;
+      width: 70%;
       margin: auto;
 position: relative;
 height: auto;
@@ -128,7 +128,7 @@ height: auto;
 @media only screen and (min-width: 350px) and (max-width: 450px) {
 
   .sliderContainer {
-      width: 55%;
+      width: 80%;
       margin: auto;
       height: auto;
       
@@ -192,7 +192,7 @@ height: auto;
 
   .sliderContainer {
 
-      width: 90%;
+      width: 60%;
       margin: auto;
   
       justify-content: center;
@@ -318,7 +318,7 @@ height: auto;
 
   .sliderContainer {
 
-      width: 75%;
+      width: 80%;
       margin: auto;
   
       justify-content: center;
@@ -381,7 +381,7 @@ height: auto;
 
   .sliderContainer {
 
-      width: 65%;
+      width: 70%;
       margin: auto;
   
       justify-content: center;
@@ -444,7 +444,7 @@ height: auto;
 
   .sliderContainer {
 
-      width: 55%;
+      width: 65%;
       margin: auto;
   
       justify-content: center;
@@ -507,7 +507,7 @@ height: auto;
 
   .sliderContainer {
 
-      width: 50%;
+      width: 60%;
       margin: auto;
   
       justify-content: center;
@@ -570,7 +570,7 @@ height: auto;
 
   .sliderContainer {
 
-      width: 85%;
+      width: 80%;
       margin: auto;
   
       justify-content: center;

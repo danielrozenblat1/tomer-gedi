@@ -30,7 +30,7 @@ const Recommends=()=>{
    
         dots:false,
         
-        slidesToShow: window.innerWidth < 450 ? 1 : window.innerWidth <= 1050 ? 2 : 4,
+        slidesToShow: window.innerWidth < 550 ? 1 : window.innerWidth <= 1050 ? 2 : window.innerWidth <= 1250 ? 3: 4,
         slidesToScroll:1,
                      
       };
@@ -100,8 +100,8 @@ const Recommends=()=>{
    
         ];  
 return <>
-<div className={styles.title} id="תוצאות">תשמעי את אלה שכבר יצאו עם תעודה</div>
-<div className={styles.explain}>לחלק מהבנות שכבר יצאו ממני עם תעודה היה חשוב להגיד לי מה הן חושבות על התהליך שעברו</div>
+
+<div className={styles.explain} id="תוצאות">לחלק מהבנות שכבר יצאו ממני עם תעודה היה חשוב להגיד לי מה הן חושבות על התהליך שעברו</div>
 <div className={styles.sliderContainer}>
         <Slider {...sliderSettings}>
           {content.map((item, index) => (
