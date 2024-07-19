@@ -56,7 +56,7 @@ const NavBarNew = () => {
 
   const closeMenu = () => setIsMenuOpen(false);
 
-  const menuItems = ['תוצאות', 'מי אני', 'קורס למתחילות','השתלמות למתקדמות' ];
+  const menuItems = ['תוצאות', 'מי אני', 'קורס למתחילות','צרי קשר' ];
 
   return (
     <nav className={`${styles.navbar} ${isSticky ? styles.sticky : ''}`}>
@@ -84,7 +84,7 @@ const NavBarNew = () => {
               {item}
             </ScrollLink>
           ))}
-            <div classsName={styles.center}><img className={styles.image} src={logo} alt="גל יאקובצאק לוגו"/></div>
+            <div classsName={styles.center}><img className={styles.image} src={logo} alt="תומר ניילס לוגו"/></div>
         </div>
       )}
       {windowWidth > 850 && (

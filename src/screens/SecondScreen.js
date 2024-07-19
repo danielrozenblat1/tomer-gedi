@@ -50,7 +50,7 @@ const SecondScreen=()=>{
 
 
     return <>
-<div className={styles.title}>בואי נכיר</div>
+<div className={styles.title} id="מי אני">בואי נכיר</div>
 <div className={styles.center}><img className={styles.image} alt="תומר גדי" src={tomer}/></div>
 <div className={styles.description}>התחלתי ב2016 עוד שלא היו מכונות שיוף! הייתי בת 15 אז, עשיתי קורס על לק גל בנייה וקישוטים עם עוד 7 בנות בכיתה, כשסיימתי את הקורס הרגשתי שלא למדתי כלום ושום דבר! התחלתי לעשות על עצמי ועל חברות, עם הזמן התחלתי לקבל פניות מאנשים שרוצים לעשות אצלי לק וככה זה התגלגל! תוך 4 חודשים היה לי יומן עם 80 לקוחות ורובן חוזרות!</div>
 <div className={styles.subTitle}>היום</div>

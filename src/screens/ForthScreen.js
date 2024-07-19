@@ -66,7 +66,7 @@ const ForthScreen=()=>{
       ];
     
     return <>
-    <div className={styles.description}>תומר,איך הכל קורה?</div>
+    <div className={styles.description} id="קורס למתחילות">תומר,איך הכל קורה?</div>
     <div className={styles.subTitle}>גם אם אין לך ידע בתחום, נתחיל ב</div>
     <div className={styles.title}>"Baby Steps"</div>
     <div className={styles.description}>4 שיעורים סופר קריטים לכל נייליסטית!</div>

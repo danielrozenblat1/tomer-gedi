@@ -53,7 +53,7 @@ const FormScreen = () => {
         
     }
   return <>
-    <div className={styles.title}>הכל מתחיל כאן!</div>
+    <div className={styles.title} id="צרי קשר">הכל מתחיל כאן!</div>
     <div className={styles.formContainer}>
       <form className={styles.form}>
         <input
