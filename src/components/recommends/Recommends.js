@@ -6,14 +6,7 @@ import result4 from "../../images/תומר גדי לקוחה ממליצה 4.png"
 import result5 from "../../images/תומר גדי לקוחה ממליצה 5.png"
 import result6 from "../../images/תומר גדי לקוחה ממליצה 6.png"
 import result7 from "../../images/תומר גדי לקוחה ממליצה 7.png"
-import result8 from "../../images/תומר גדי לקוחה ממליצה 8.png"
-import result9 from "../../images/תומר גדי לקוחה ממליצה 9.png"
-import result10 from "../../images/תומר גדי לקוחה ממליצה 10.png"
-import result11 from "../../images/תומר גדי לקוחה ממליצה 11.png"
-import result12 from "../../images/תומר גדי לקוחה ממליצה 12.png"
-import result13 from "../../images/תומר גדי לקוחה ממליצה 13.png"
-import result14 from "../../images/תומר גדי לקוחה ממליצה 14.png"
-import result15 from "../../images/תומר גדי לקוחה ממליצה 15.png"
+
 
 
 
@@ -65,38 +58,7 @@ const Recommends=()=>{
           type: 'image',
           src: result7,
         },
-        {
-          type: 'image',
-          src: result8,
-        },
-        {
-          type: 'image',
-          src: result9,
-        },
-        {
-          type: 'image',
-          src: result10,
-        },
-        {
-          type: 'image',
-          src: result11,
-        },
-        {
-          type: 'image',
-          src: result12,
-        },
-        {
-          type: 'image',
-          src: result13,
-        },
-        {
-          type: 'image',
-          src: result14,
-        },
-        {
-          type: 'image',
-          src: result15,
-        },
+       
    
         ];  
 return <>

@@ -1,7 +1,7 @@
 import LessonBubble from "../components/steps/Step"
 import TripleRowColumn from "../components/what/What";
 import styles from "./ForthScreen.module.css"
-import personal from "../images/תומר גדי יחס.png"
+import personal from "../images/תומר גדי יחס אישי.png"
 import knowledge from "../images/תומר גדי שיווק.png"
 import certificate from "../images/תומר גדי תעודה.png"
 import Button from "../components/button/Button";

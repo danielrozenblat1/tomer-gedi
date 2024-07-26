@@ -37,7 +37,7 @@
     font-family: "AssistantR";
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
-    margin:0 auto;
+    margin:3% auto 0 ;
     direction: rtl;
     width:70%;
 }
@@ -50,20 +50,20 @@
     .subTitle { font-size: 1.5rem; width: 95%; margin:2% auto;
 
     }
-    .description { font-size: 1.2rem; width: 90%; }
+    .description { font-size: 1.2rem; width: 90%; margin:25px auto 0 }
 }
 
 @media only screen and (min-width: 350px) and (max-width: 450px) {
     .title { font-size: 2.8rem; margin: 2.5% auto; }
     .row { flex-direction: column; }
     .subTitle { font-size: 1.8rem; width: 95%; }
-    .description { font-size: 1.25rem; width: 85%; }
+    .description { font-size: 1.25rem; width: 85%; margin:25px auto 0  }
 }
 
 @media only screen and (min-width: 450px) and (max-width: 550px) {
     .title { font-size: 3rem; margin: 2% auto; }
     .subTitle { font-size: 2.2rem; width: 95%; }
-    .description { font-size: 1.3rem; width: 80%; }
+    .description { font-size: 1.3rem; width: 80%; margin:25px auto 0  }
 }
 
 @media only screen and (min-width: 550px) and (max-width: 650px) {
