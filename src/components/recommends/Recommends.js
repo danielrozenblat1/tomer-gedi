@@ -63,7 +63,7 @@ const Recommends=()=>{
         ];  
 return <>
 
-<div className={styles.explain} id="תוצאות">לחלק מהבנות שכבר יצאו ממני עם תעודה היה חשוב להגיד לי מה הן חושבות על התהליך שעברו</div>
+<div className={styles.explain} id="תוצאות">מה חושבות הבוגרות שלי על התהליך שהן עברו?-</div>
 <div className={styles.sliderContainer}>
         <Slider {...sliderSettings}>
           {content.map((item, index) => (
