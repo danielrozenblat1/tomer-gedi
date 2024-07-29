@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Button.module.css";
 const handleButtonClick = () => {
-  const phoneNumber = "+972549912001";
+  const phoneNumber = "+972548935530";
   // Set the message content
   const message ="היי תומר ,אני רוצה לשמוע ממך עוד על..";
 

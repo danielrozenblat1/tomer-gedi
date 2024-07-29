@@ -39,7 +39,7 @@ const NavBarNew = () => {
     };
   }, []);
   const handleClick = () => {
-    const phoneNumber = "+972549912001";
+    const phoneNumber = "+972548935530";
     // Set the message content
     const message ="היי תומר ,אני רוצה לשמוע ממך עוד על..";
 
