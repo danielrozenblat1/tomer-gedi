@@ -6,7 +6,7 @@ const FormScreen = () => {
     const nameRef=useRef('')
       const phoneRef=useRef('')
       const emailRef=useRef('')
-       const reciver="tomergedi31@gmail.com" 
+       const reciver="tomernails@gmail.com" 
   
       const submitHandler=async(e)=>{
         e.preventDefault()
